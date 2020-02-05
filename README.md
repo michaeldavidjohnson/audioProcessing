@@ -1,2 +1,2 @@
 # audioProcessing
-A collection of mini projects for OBS streaming.
+A collection of mini acoustic processing projects for OBS streaming.
